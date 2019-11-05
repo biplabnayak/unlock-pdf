@@ -9,7 +9,7 @@ import java.io.File;
  */
 public class UnlockPdf {
 
-    private static String FILE_NAME = "Aug 2019";
+    private static String FILE_NAME = "sample";
     private static String FILE_PATH = "/Users/biplabnayak/Desktop/docs/creditcard";
     private static String PASSWORD = "DUMMY";
     private static String EXT = ".PDF";
