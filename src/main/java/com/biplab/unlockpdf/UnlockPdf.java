@@ -9,9 +9,10 @@ import java.io.File;
  */
 public class UnlockPdf {
 
-    private static String FILE_NAME = "sample";
-    private static String FILE_PATH = "/Users/biplabnayak/Desktop/docs/creditcard";
-    private static String PASSWORD = "DUMMY";
+    private static String FILE_NAME = "02 -  AADHAAR";
+    private static String FILE_PATH = "G:\\My Drive\\Documents - Abheek\\01 - Govt";
+    private static String PASSWORD = "ABHE2021";
+//    private static String PASSWORD = "AMVPN3345A16091990";
     private static String EXT = ".PDF";
 
     public static void main(String[] args) throws Exception {
